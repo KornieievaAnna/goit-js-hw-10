@@ -44,7 +44,7 @@ function getCountryFromInput() {
       }
 
       if (countrys.length >= 2 && countrys.length <= 10) {
-        //функция создает лист с флаг-имя стран
+        //функция создает лист с флаг-имя стран 
         listCountrys(countrys);
       }
     })
